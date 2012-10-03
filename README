@@ -1,0 +1,9 @@
+Spring MVC Template with Theymeleaf, Sitemesh, and jqGrid
+======================================
+
+This is a template for a starter project
+
+Running
+==========
+`mvn compile`
+`mvn jetty:run`
