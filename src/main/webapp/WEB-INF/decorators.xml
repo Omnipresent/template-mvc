@@ -1,0 +1,5 @@
+<decorators defaultdir="/decorators">
+    <decorator name="standard" page="/WEB-INF/jsp/layouts/standard.jsp">
+        <pattern>/*</pattern>
+    </decorator>
+</decorators>
